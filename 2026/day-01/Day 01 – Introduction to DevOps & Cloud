@@ -1,0 +1,38 @@
+# My 90-Day DevOps Learning Plan
+
+*My Understanding of DevOps and Cloud?
+-I am a beginner in DevOps.As per my understanding:
+DevOps means working together between Development (coding) and Operations (servers & deployment)
+-Cloud Computing means using servers on the internet instead of buying physical machines.
+
+*Why I Am Starting to Learn DevOps & Cloud?
+-I am interested in IT and technology
+-DevOps is in high demand in the industry
+-DevOps gives knowledge of Linux, Cloud, and tools together
+
+*Where I Want to Reach After 90 Days?
+-Be ready for DevOps internship or fresher role
+-Build confidence to learn advanced DevOps tools
+-Have basic hands-on experience
+
+*My Simple 90-Day Learning Plan?
+ Days 1–30: Basics:
+-Linux basics (commands, files, permissions)
+-Networking basics (IP address, DNS, ports)
+-Git & GitHub basics
+-DevOps basic concepts
+
+Days 31–60: Cloud Basics:
+-Introduction to AWS
+-EC2 (server creation)
+-S3 (storage)
+-IAM basics (users and permissions)
+-Hosting a simple website
+
+Days 61–90: DevOps Tools (Beginner Level):
+-Introduction to CI/CD
+-Basic Jenkins or GitHub Actions
+-Introduction to Docker
+-Simple DevOps mini project
+
+
