@@ -52,4 +52,4 @@ Examples:
 -Enable service on boot: systemctl enable nginx
 *Why systemd is important for DevOps:
 -Manages servers automatically
--Restarts crashed services
+-Restarts crashed services.
